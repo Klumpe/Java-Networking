@@ -30,7 +30,7 @@ public class client {
 		    
 		    public String receiveMessage() throws IOException
 		    {
-
+		    	//String message = in.readLine();		
 		    	String message = in.readLine();		
 				return message;
 				
